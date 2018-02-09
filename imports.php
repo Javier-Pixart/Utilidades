@@ -1,8 +1,11 @@
+<?php
+include "libraries/RedBean/rb-postgres.php";
+?>
 <!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>MDM</title>
+  <title></title>
   <!--jQuery-->
   <script type="text/javascript" src="libraries/jQuery/jquery-3.3.1.min.js"></script>
   <!---------->
@@ -34,6 +37,6 @@
   <!--------------->
 </head>
 <body class="primary-bg-color">
-  
+
 </body>
 </html>
