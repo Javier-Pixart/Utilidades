@@ -1,0 +1,28 @@
+input:focus{
+  box-shadow: 0 0 0 0.2rem rgba(0,0,0,0.1)!important;
+}
+input:active{
+  box-shadow: 0 0 0 0.2rem rgba(0,0,0,0.1)!important;
+}
+.round-border-h{
+  border-radius: 10px;
+}
+.round-border-m{
+  border-radius: 5px;
+}
+.round-border-l{
+  border-radius: 2px;
+}
+
+.trans{
+  transition: 0.3;
+}
+.padd-h{
+  padding: 50px;
+}
+.padd-m{
+  padding: 25px;
+}
+.padd-l{
+  padding: 10px;
+}

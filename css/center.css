@@ -1,0 +1,32 @@
+.centered {
+  margin: auto;
+}
+html, body {
+  height:100%;
+}
+body {
+  display:flex;
+  align-items:center;
+}
+.logo{
+  min-width: 30%;
+  max-width: 60%;
+  margin: auto;
+  display: block;
+}
+.logo-button{
+  padding: 10px;
+  min-width: 30%;
+  max-width: 100%;
+  background-color: rgba(255,255,255,0.0);
+  border-radius: 10px;
+  transition: 0.3s;
+}
+.logo-button:hover,.logo-button:focus,.logo-button:active{
+  padding: 20px;
+  min-width: 35%;
+  max-width: 100%;
+  background-color: rgba(255,255,255,0.1);
+  border-radius: 5px;
+  transition: 0.3s;
+}

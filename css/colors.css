@@ -1,0 +1,97 @@
+/*bg=background*/
+.primary-color{
+  color: #39A6DA;
+}
+.primary-bg-color{
+  background-color: #39A6DA;
+}
+.primary-light-color{
+  color: #5CB6E0;
+}
+.primary-light-bg-color{
+  background-color: #5CB6E0;
+}
+.primary-dark-color{
+  color: #209FDD;
+}
+.primary-dark-bg-color{
+  background-color: #209FDD;
+}
+
+
+.secondary-color{
+  color: #E1D249;
+}
+.secondary-bg-color{
+  background-color: #E1D249;
+}
+.secondary-light-color{
+  color: #E8DC73;
+}
+.secondary-light-bg-color{
+  background-color: #E8DC73;
+}
+.secondary-dark-color{
+  color: #D7C732;
+}
+.secondary-dark-bg-color{
+  background-color: #D7C732;
+}
+.white{
+color: #FAFAFA;
+}
+.black{
+color: #4A5158;
+}
+.white-bg{
+background-color: white;
+}
+.black-bg{
+background-color: black;
+}
+
+
+.primary-button-color{
+  background-color: #39A6DA;
+}
+.primary-button-color:hover{
+  background-color: #5CB6E0;
+}
+.primary-button-color:active{
+  background-color: #209FDD;
+  box-shadow: 0 0 0 0.2rem rgba(0,0,0,0.1);
+}
+.primary-button-color:focus{
+  background-color: #209FDD;
+  box-shadow: 0 0 0 0.2rem rgba(0,0,0,0.1);
+}
+
+.secondary-button-color{
+  background-color: #E1D249;
+}
+.secondary-button-color:hover{
+  background-color: #E8DC73;
+}
+.secondary-button-color:active{
+  background-color: #D7C732;
+  box-shadow: 0 0 0 0.2rem rgba(0,0,0,0.1);
+}
+.secondary-button-color:focus{
+  background-color: #D7C732;
+  box-shadow: 0 0 0 0.2rem rgba(0,0,0,0.1);
+}
+
+.white-button-color{
+  background-color: #EFEFEF;
+}
+.white-button-color:hover{
+  background-color: #FAFAFA;
+}
+.white-button-color:active{
+  background-color: #D0D0D0;
+  box-shadow: 0 0 0 0.2rem rgba(0,0,0,0.1);
+}
+.white-button-color:focus{
+  background-color: #D0D0D0;
+  box-shadow: 0 0 0 0.2rem rgba(0,0,0,0.1);
+}
