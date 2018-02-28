@@ -1,41 +1,41 @@
 /*bg=background*/
 .primary-color{
-  color: #39A6DA;
+  color: #d4e157;
 }
 .primary-bg-color{
-  background-color: #39A6DA;
+  background-color: #d4e157;
 }
 .primary-light-color{
-  color: #5CB6E0;
+  color: #ffff89;
 }
 .primary-light-bg-color{
-  background-color: #5CB6E0;
+  background-color: #ffff89;
 }
 .primary-dark-color{
-  color: #209FDD;
+  color: #a0af22;
 }
 .primary-dark-bg-color{
-  background-color: #209FDD;
+  background-color: #a0af22;
 }
 
 
 .secondary-color{
-  color: #E1D249;
+  color: #66bb6a;
 }
 .secondary-bg-color{
-  background-color: #E1D249;
+  background-color: #66bb6a;
 }
 .secondary-light-color{
-  color: #E8DC73;
+  color: #98ee99;
 }
 .secondary-light-bg-color{
-  background-color: #E8DC73;
+  background-color: #98ee99;
 }
 .secondary-dark-color{
-  color: #D7C732;
+  color: #338a3e;
 }
 .secondary-dark-bg-color{
-  background-color: #D7C732;
+  background-color: #338a3e;
 }
 .white{
 color: #FAFAFA;
@@ -43,41 +43,41 @@ color: #FAFAFA;
 .black{
 color: #4A5158;
 }
-.white-bg{
+.white-bg-color{
 background-color: white;
 }
-.black-bg{
+.black-bg-color{
 background-color: black;
 }
 
 
 .primary-button-color{
-  background-color: #39A6DA;
+  background-color: #d4e157;
 }
 .primary-button-color:hover{
-  background-color: #5CB6E0;
+  background-color: #ffff89;
 }
 .primary-button-color:active{
-  background-color: #209FDD;
+  background-color: #a0af22;
   box-shadow: 0 0 0 0.2rem rgba(0,0,0,0.1);
 }
 .primary-button-color:focus{
-  background-color: #209FDD;
+  background-color: #a0af22;
   box-shadow: 0 0 0 0.2rem rgba(0,0,0,0.1);
 }
 
 .secondary-button-color{
-  background-color: #E1D249;
+  background-color: #66bb6a;
 }
 .secondary-button-color:hover{
-  background-color: #E8DC73;
+  background-color: #98ee99;
 }
 .secondary-button-color:active{
-  background-color: #D7C732;
+  background-color: #338a3e;
   box-shadow: 0 0 0 0.2rem rgba(0,0,0,0.1);
 }
 .secondary-button-color:focus{
-  background-color: #D7C732;
+  background-color: #338a3e;
   box-shadow: 0 0 0 0.2rem rgba(0,0,0,0.1);
 }
 
